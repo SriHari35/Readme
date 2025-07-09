@@ -1,0 +1,27 @@
+# Sri Hari - Mini Projects Collection 👨‍💻
+
+This repository contains beginner-friendly mini projects created using C and HTML/CSS. These projects were developed as part of my Phase 1 & 2 learning journey while studying Computer Science.
+
+## 📂 Projects Included
+
+1. **Grade Evaluator** – Uses `switch-case` to show performance from grade input
+2. **Simple Calculator** – Performs +, -, *, / on two numbers
+3. **Even/Odd Printer** – Uses loop and `if` to print even numbers up to `n`
+4. **Array Reader** – Demonstrates use of arrays and loop
+5. **Name Looper** – Repeats my name using `for` loop
+6. **Profile Web Page** – Basic HTML profile page showing my intro
+
+---
+
+## 📌 About Me
+
+**Name**: Sri Hari  
+**Course**: 1st Year CSE  
+**Interest**: Programming in C, Web Development  
+**GitHub**: [github.com/Srihari35](https://github.com/srihari35)
+
+---
+
+## 💡 Learning in Progress
+- Advancing into file handling, structs, and pointers
+- Learning full HTML & CSS for web development
